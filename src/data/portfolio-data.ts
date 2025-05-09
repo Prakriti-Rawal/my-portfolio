@@ -1,3 +1,9 @@
+import profileImage from "./profile.jpeg";
+import sqlServerIcon from "./sql-server.png";
+import powerBiIcon from "./power-bi-icon.png";
+import tableauIcon from "./icons8-tableau-software-48.png";
+import pandasIcon from "./Pandas.png";
+import numpyIcon from "./icons8-numpy-48.png";
 export interface Project {
   id: string;
   title: string;
@@ -40,7 +46,7 @@ export const portfolioData = {
   title: "Data Analyst",
   about:
     "Hey there! 👋 I'm Prakriti Rawal, a Data Analyst who transforms complex data into clear, actionable insights. Combining technical expertise with business acumen, I help organizations make data-driven decisions. Let's turn your data into strategic value! 🚀",
-  profileImage: "public/assets/images/profile.jpeg",
+  profileImage: profileImage,
   projects: [
     {
       id: "1",
@@ -115,7 +121,7 @@ export const portfolioData = {
     {
       id: 1,
       name: "SQL",
-      icon: "public/assets/images/sql-server.png",
+      icon: sqlServerIcon,
     },
     {
       id: 2,
@@ -125,15 +131,15 @@ export const portfolioData = {
     {
       id: 3,
       name: "PowerBI",
-      icon: "public/assets/images/power-bi-icon.png",
+      icon: powerBiIcon,
     },
     {
       id: 4,
       name: "Tableau",
-      icon: "public/assets/images/icons8-tableau-software-48.png",
+      icon: tableauIcon,
     },
-    { id: 5, name: "Pandas", icon: "public/assets/images/Pandas.png" },
-    { id: 6, name: "Numpy", icon: "public/assets/images/icons8-numpy-48.png" },
+    { id: 5, name: "Pandas", icon: pandasIcon },
+    { id: 6, name: "Numpy", icon: numpyIcon },
     {
       id: 7,
       name: "Excel",
