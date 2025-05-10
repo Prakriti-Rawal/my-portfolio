@@ -70,6 +70,14 @@ export const portfolioData = {
       githubUrl:
         "https://github.com/Prakriti-Rawal/SQL-Project-Online-Learning-Platform-OLP-",
     },
+     {
+      id: "4",
+      title: "Credit-Card-Financial-Weekly-Dashboard-Report",
+      description:
+        " Automated weekly Power BI dashboard for credit card metrics, cutting report prep time by 75% . Optimized SQL ETL for 1M+ weekly transactions, boosting data refresh performance by 60%. Crafted DAX measures for rolling averages, YoY trends, and risk segmentation ",
+      githubUrl:
+        "https://github.com/Prakriti-Rawal/Credit-Card-Financial-Weekly-Dashboard-Report",
+    },
   ],
   education: [
     {
