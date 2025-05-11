@@ -84,7 +84,7 @@ export const portfolioData = {
       id: "1",
       degree: "Postgraduate Program in Data Science & Analytics",
       institution: "Imarticus Learning",
-      year: "2024 - 2026",
+      year: "2024 - 2025",
       emoji: "💻",
     },
     {
