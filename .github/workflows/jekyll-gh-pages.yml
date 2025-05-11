@@ -26,6 +26,11 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "Prakriti Rawal"
+          git config --global user.email "prakriti.rawal@gmail.com"
+
       - name: Deploy project
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
