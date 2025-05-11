@@ -42,7 +42,7 @@ export interface Contact {
 }
 
 export const portfolioData = {
-  name: "Prakriti Rawal",
+  name: "Prakriti Rawal 🚀",
   title: "Data Analyst",
   about:
     "Hey there! 👋 I'm Prakriti Rawal, a Data Analyst who transforms complex data into clear, actionable insights. Combining technical expertise with business acumen, I help organizations make data-driven decisions. Let's turn your data into strategic value! 🚀",
