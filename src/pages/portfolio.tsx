@@ -17,7 +17,7 @@ import { Footer } from "../components/portfolio/footer";
 import { Section } from "../components/portfolio/section";
 import { Timeline } from "../components/portfolio/timeline";
 import { PortfolioCard } from "../components/portfolio/card";
-import resume from "../data/Data Enthusiast- Prakriti.pdf";
+import resume from "../data/resume.pdf";
 
 import ProjectCard from "../components/ProjectCard";
 import { portfolioData } from "../data/portfolio-data";
