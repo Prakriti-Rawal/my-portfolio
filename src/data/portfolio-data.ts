@@ -78,6 +78,14 @@ export const portfolioData = {
       githubUrl:
         "https://github.com/Prakriti-Rawal/Credit-Card-Financial-Weekly-Dashboard-Report",
     },
+       {
+      id: "5",
+      title: "Workforce360-HR-Analytics-Dashboard",
+      description:
+        " An interactive HR Analytics Dashboard built in Power BI that provides insights into employee demographics, promotions, retrenchments, job satisfaction, and attrition trends — designed to support data-driven HR decisions.",
+      githubUrl:
+        "https://github.com/Prakriti-Rawal/Workforce360-HR-Analytics-Dashboard",
+    },
   ],
   education: [
     {
