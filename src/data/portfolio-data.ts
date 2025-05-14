@@ -120,7 +120,7 @@ export const portfolioData = {
     {
       id: "exp-3",
       role: "HR Manager/Business Development Executive",
-      company: "Analytics Hub",
+      company: "Throughout Technologies Pvt. Ltd.",
       period: "Mar 2020 - Apr 2021",
       emoji: "💻",
     },
