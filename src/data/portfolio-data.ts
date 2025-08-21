@@ -111,22 +111,29 @@ export const portfolioData = {
     },
   ],
   experience: [
-    {
+   {
       id: "exp-1",
-      role: "Senior Recruiter - Talent Acquisition",
-      company: "Apidel Technologies",
-      period: "Feb 2023 - July 2024",
+      role: "Data Research Analyst Intern",
+      company: "Invergence Analytics(Subsidiary of Convergence Inc)",
+      period: "Aug 2025 - Present",
       emoji: "🚀",
     },
     {
       id: "exp-2",
+      role: "Senior Recruiter - Talent Acquisition",
+      company: "Apidel Technologies",
+      period: "Feb 2023 - July 2024",
+      emoji: "💻",
+    },
+    {
+      id: "exp-3",
       role: "Technical Recruiter",
       company: "Rang Technologies",
       period: "Jul 2021 - Dec 2022",
       emoji: "💻",
     },
     {
-      id: "exp-3",
+      id: "exp-4",
       role: "HR Manager/Business Development Executive",
       company: "Throughout Technologies Pvt. Ltd.",
       period: "Mar 2020 - Apr 2021",
